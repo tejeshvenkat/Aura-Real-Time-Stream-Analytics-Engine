@@ -1,0 +1,7 @@
+# Aura – High-Cardinality Real-Time Analytics Engine
+# Python 3.10+ (asyncio, standard library only for core)
+# No external deps required for core; add below if you add optional features.
+
+# Optional: for running tests with pytest
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
